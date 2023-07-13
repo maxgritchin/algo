@@ -1,5 +1,5 @@
 // TRICKY
-public bool IsAnagram(string s, string t)
+bool IsAnagram(string s, string t)
 {
     // when len is not equal than exit
     if (s.Length != t.Length)
@@ -24,7 +24,7 @@ public bool IsAnagram(string s, string t)
 }
 
 // HASHMAP 
-public bool IsAnagram(string s, string t)
+bool IsAnagram(string s, string t)
 {
     if (s.Length != t.Length)
         return false;
