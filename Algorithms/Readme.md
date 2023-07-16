@@ -8,4 +8,5 @@ This project contains various algorithm modules.
 
 - [Anagram](Modules/Anagram/code.cs) - [Description](Modules/Anagram/desc.md) - [Try](https://leetcode.com/problems/valid-anagram/)
 - [Contains Dupllicate](Modules/Duplicate/code.cs) - [Description](Modules/Dupicate/desc.md) - [Try](https://leetcode.com/problems/contains-duplicate/)
-- - [TwoSum](Modules/TwoSum/code.cs) - [Description](Modules/TwoSum/desc.md) - [Try](https://leetcode.com/problems/two-sum/)
+- [TwoSum](Modules/TwoSum/code.cs) - [Description](Modules/TwoSum/desc.md) - [Try](https://leetcode.com/problems/two-sum/)
+- [GroupAnagrams](Modules/GroupAnagrams/code.cs) - [Description](Modules/GroupAnagrams/desc.md) - [Try](https://leetcode.com/problems/group-anagrams/)
