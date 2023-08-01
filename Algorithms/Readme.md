@@ -14,3 +14,7 @@ This project contains various algorithm modules.
 ### Two Pointers 
 
 - [Valid Palindrome](Modules/TwoPointers/ValidPalindrome/code.cs) - [Description](Modules/TwoPointers/ValidPalindrome/desc.md) - [Try](https://leetcode.com/problems/valid-palindrome/submissions/)
+
+### Intervals 
+
+- [Merge Intervals](Modules/Intervals/merge_intervals.md)
